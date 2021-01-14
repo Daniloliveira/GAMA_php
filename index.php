@@ -1,5 +1,3 @@
-Teste php
+<h1 style="background-color:DodgerBlue;">Teste Deploy HTML</h1
 
-Teste segundo commit
-
-Teste terceiro commit
+<p><strong>Texto Formatado!!</strong></p>
